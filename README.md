@@ -7,3 +7,7 @@ random info here
 - git pull
 - git push
 - git clone
+- git push
+
+## adding another section
+- learning branching
